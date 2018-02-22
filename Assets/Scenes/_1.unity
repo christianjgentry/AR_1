@@ -1217,7 +1217,7 @@ Transform:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 392854595}
-  m_LocalRotation: {x: -0.63802445, y: -0.031583425, z: -0.04772645, w: 0.76788634}
+  m_LocalRotation: {x: -0.6380245, y: -0.03158343, z: -0.047726452, w: 0.7678864}
   m_LocalPosition: {x: -0.0016875839, y: 0.45968273, z: 0.039846376}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1551,7 +1551,7 @@ Transform:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 864672472}
-  m_LocalRotation: {x: -0.030655807, y: 0.00065734977, z: 0.09636113, w: 0.994874}
+  m_LocalRotation: {x: -0.063031934, y: -0, z: -0, w: 0.9980115}
   m_LocalPosition: {x: -0.000000029569492, y: -0.000000044703455, z: -0.0000002384186}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1629,7 +1629,7 @@ Transform:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 898546502}
-  m_LocalRotation: {x: -0.004596909, y: 0.008638231, z: -0.025286462, w: 0.99963236}
+  m_LocalRotation: {x: -0.0045969095, y: 0.008638231, z: -0.025286464, w: 0.99963236}
   m_LocalPosition: {x: -0.0025759481, y: -0.001624465, z: 0.76734173}
   m_LocalScale: {x: 1, y: 1, z: 1.0000001}
   m_Children:
@@ -1927,7 +1927,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &997917401
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2252,7 +2252,7 @@ Transform:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1065397805}
-  m_LocalRotation: {x: -0.11283165, y: -0.033454087, z: -0.01951015, w: 0.9928591}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.000000010244549, y: -0.22110236, z: 0.30989116}
   m_LocalScale: {x: 1, y: 1, z: 0.99999994}
   m_Children:
@@ -2520,6 +2520,87 @@ Light:
   m_UseColorTemperature: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!1 &1311471268
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1311471272}
+  - component: {fileID: 1311471271}
+  - component: {fileID: 1311471270}
+  - component: {fileID: 1311471269}
+  m_Layer: 0
+  m_Name: Camera
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!81 &1311471269
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1311471268}
+  m_Enabled: 1
+--- !u!124 &1311471270
+Behaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1311471268}
+  m_Enabled: 1
+--- !u!20 &1311471271
+Camera:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1311471268}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 0
+  orthographic size: 5
+  m_Depth: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!4 &1311471272
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1311471268}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.537, y: 0.426, z: -1.544}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1355333927
 GameObject:
   m_ObjectHideFlags: 0
@@ -2606,7 +2687,6 @@ GameObject:
   - component: {fileID: 1413421864}
   - component: {fileID: 1413421863}
   - component: {fileID: 1413421862}
-  - component: {fileID: 1413421861}
   m_Layer: 0
   m_Name: Vending Machine
   m_TagString: Untagged
@@ -2614,24 +2694,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
---- !u!95 &1413421861
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 95832066548486048, guid: b2e7b7429554488499dcd9839d85a364,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1413421859}
-  m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 84bcf3474969632488ea9c306fc064a1, type: 3}
-  m_Controller: {fileID: 0}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
 --- !u!23 &1413421862
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2865,14 +2927,14 @@ Transform:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1467920739}
-  m_LocalRotation: {x: -0, y: -1, z: -0, w: 0.00017727911}
-  m_LocalPosition: {x: 0.517, y: 0.337, z: -0.49875}
+  m_LocalRotation: {x: -0.00012340446, y: -0.70710677, z: -0.70710677, w: 0.00012340446}
+  m_LocalPosition: {x: 0.653, y: -0.005, z: -0.25}
   m_LocalScale: {x: 0.10667499, y: 0.106674984, z: 0.106674984}
   m_Children:
   - {fileID: 392854596}
   m_Father: {fileID: 1029305175}
   m_RootOrder: 20
-  m_LocalEulerAnglesHint: {x: 0, y: -179.98001, z: 0}
+  m_LocalEulerAnglesHint: {x: -90, y: -179.98001, z: 0}
 --- !u!95 &1467920741
 Animator:
   serializedVersion: 3
@@ -2882,19 +2944,13 @@ Animator:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1467920739}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: b55c0d0a664f7d14ea6196c83c64c4df, type: 3}
-  m_Controller: {fileID: 9100000, guid: 1ac2a1891f6a2814dbcb83cbd24d5ee1, type: 2}
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d9da3b20e0523bd4e810caa48b98d7c8, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
-  m_WarningMessage: "\nBinding warning: Some generic clip(s) animate transforms that
-    are already bound by a Humanoid avatar. These transforms can only be changed by
-    Humanoid clips.\n\tTransform 'Meebi (1)'\n\tFrom animation clip 'jog_fwd'\n\tFrom
-    animation clip 'fly_idle'\n\tFrom animation clip 'fly_dive'\n\tFrom animation
-    clip 'fly_dive'\n\tFrom animation clip 'fly_dive'\n\tFrom animation clip 'fly_dive'\n\tFrom
-    animation clip 'fly_dive'\n\tFrom animation clip 'fly_dive'\n\tFrom animation
-    clip 'fly_dive'\n\tFrom animation clip 'fly_dive'\n\tand more ..."
+  m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1468571172
