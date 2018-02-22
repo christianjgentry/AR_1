@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: b55c0d0a664f7d14ea6196c83c64c4df
+timeCreated: 1517628838
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Meebi_Chest
+    100002: Meebi_Eye_L
+    100004: Meebi_Eye_Right
+    100006: Meebi_Foot_L
+    100008: Meebi_Foot_R
+    100010: Meebi_Forearm_L
+    100012: Meebi_Forearm_R
+    100014: Meebi_Hand_L
+    100016: Meebi_Hand_R
+    100018: Meebi_Head
+    100020: Meebi_Hips
+    100022: Meebi_Jaw
+    100024: Meebi_Neck
+    100026: Meebi_Shin_L
+    100028: Meebi_Shin_R
+    100030: Meebi_Shoulder_L
+    100032: Meebi_Shoulder_R
+    100034: Meebi_Thigh_L
+    100036: Meebi_Thigh_R
+    100038: Meebi_Thumb_L
+    100040: Meebi_Thumb_R
+    100042: //RootNode
+    100044: Empty
+    100046: Meebi_BodyPivot
+    400000: Meebi_Chest
+    400002: Meebi_Eye_L
+    400004: Meebi_Eye_Right
+    400006: Meebi_Foot_L
+    400008: Meebi_Foot_R
+    400010: Meebi_Forearm_L
+    400012: Meebi_Forearm_R
+    400014: Meebi_Hand_L
+    400016: Meebi_Hand_R
+    400018: Meebi_Head
+    400020: Meebi_Hips
+    400022: Meebi_Jaw
+    400024: Meebi_Neck
+    400026: Meebi_Shin_L
+    400028: Meebi_Shin_R
+    400030: Meebi_Shoulder_L
+    400032: Meebi_Shoulder_R
+    400034: Meebi_Thigh_L
+    400036: Meebi_Thigh_R
+    400038: Meebi_Thumb_L
+    400040: Meebi_Thumb_R
+    400042: //RootNode
+    400044: Empty
+    400046: Meebi_BodyPivot
+    2100000: Meebi_Material
+    2100002: Meebi_Material__Untitled
+    2100004: Meebi_Material_001
+    2300000: Meebi_Chest
+    2300002: Meebi_Eye_L
+    2300004: Meebi_Eye_Right
+    2300006: Meebi_Foot_L
+    2300008: Meebi_Foot_R
+    2300010: Meebi_Forearm_L
+    2300012: Meebi_Forearm_R
+    2300014: Meebi_Hand_L
+    2300016: Meebi_Hand_R
+    2300018: Meebi_Head
+    2300020: Meebi_Hips
+    2300022: Meebi_Jaw
+    2300024: Meebi_Neck
+    2300026: Meebi_Shin_L
+    2300028: Meebi_Shin_R
+    2300030: Meebi_Shoulder_L
+    2300032: Meebi_Shoulder_R
+    2300034: Meebi_Thigh_L
+    2300036: Meebi_Thigh_R
+    2300038: Meebi_Thumb_L
+    2300040: Meebi_Thumb_R
+    3300000: Meebi_Chest
+    3300002: Meebi_Eye_L
+    3300004: Meebi_Eye_Right
+    3300006: Meebi_Foot_L
+    3300008: Meebi_Foot_R
+    3300010: Meebi_Forearm_L
+    3300012: Meebi_Forearm_R
+    3300014: Meebi_Hand_L
+    3300016: Meebi_Hand_R
+    3300018: Meebi_Head
+    3300020: Meebi_Hips
+    3300022: Meebi_Jaw
+    3300024: Meebi_Neck
+    3300026: Meebi_Shin_L
+    3300028: Meebi_Shin_R
+    3300030: Meebi_Shoulder_L
+    3300032: Meebi_Shoulder_R
+    3300034: Meebi_Thigh_L
+    3300036: Meebi_Thigh_R
+    3300038: Meebi_Thumb_L
+    3300040: Meebi_Thumb_R
+    4300000: Meebi_Hips
+    4300002: Meebi_Chest
+    4300004: Meebi_Neck
+    4300006: Meebi_Head
+    4300008: Meebi_Jaw
+    4300010: Meebi_Eye_L
+    4300012: Meebi_Eye_Right
+    4300014: Meebi_Shoulder_R
+    4300016: Meebi_Forearm_R
+    4300018: Meebi_Hand_R
+    4300020: Meebi_Thumb_R
+    4300022: Meebi_Shoulder_L
+    4300024: Meebi_Forearm_L
+    4300026: Meebi_Hand_L
+    4300028: Meebi_Thumb_L
+    4300030: Meebi_Thigh_L
+    4300032: Meebi_Shin_L
+    4300034: Meebi_Foot_L
+    4300036: Meebi_Thigh_R
+    4300038: Meebi_Shin_R
+    4300040: Meebi_Foot_R
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Meebi_BodyPivot
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Thigh_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Thigh_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Shin_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Shin_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Chest
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Shoulder_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Shoulder_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Forearm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Forearm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Meebi_Jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Meebi(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_BodyPivot
+      parentName: Meebi(Clone)
+      position: {x: -0, y: 0.21586072, z: 3.61779}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Chest
+      parentName: Meebi_BodyPivot
+      position: {x: -0.000000029569492, y: -0.00000003892933, z: -0.000000228983}
+      rotation: {x: -0.063031934, y: 0.0000000029205203, z: -0, w: 0.9980116}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Neck
+      parentName: Meebi_Chest
+      position: {x: -0.000000010244548, y: -0.22110224, z: 0.309891}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Meebi_Head
+      parentName: Meebi_Neck
+      position: {x: -0.0025759481, y: -0.0016244598, z: 0.76734114}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Meebi_Jaw
+      parentName: Meebi_Head
+      position: {x: 0.0025691732, y: -0.3609905, z: 1.599864}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Shoulder_L
+      parentName: Meebi_Chest
+      position: {x: -1.1950531, y: -0.06912906, z: 0.93164825}
+      rotation: {x: -0.000000026077023, y: 0.5336981, z: -0.17144336, w: 0.8281145}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Meebi_Forearm_L
+      parentName: Meebi_Shoulder_L
+      position: {x: -0.4106586, y: -0.33960187, z: -1.0571702}
+      rotation: {x: -0.12752768, y: 0.16446367, z: 0.00077287364, w: 0.97810423}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Hand_L
+      parentName: Meebi_Forearm_L
+      position: {x: -0.006349802, y: 0.00017658682, z: -1.0853174}
+      rotation: {x: -0.07722856, y: 0.19579689, z: 0.00048366532, w: 0.9775986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Thumb_L
+      parentName: Meebi_Hand_L
+      position: {x: 0.092007585, y: 0.00000007731208, z: -0.13536479}
+      rotation: {x: 9.313226e-10, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Shoulder_R
+      parentName: Meebi_Chest
+      position: {x: 1.1950531, y: -0.06912907, z: 0.9316478}
+      rotation: {x: -0.000000018626444, y: -0.53369784, z: 0.17144355, w: 0.8281146}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Meebi_Forearm_R
+      parentName: Meebi_Shoulder_R
+      position: {x: 0.41065848, y: -0.33960187, z: -1.057169}
+      rotation: {x: -0.12752777, y: -0.16446364, z: -0.0007729058, w: 0.9781042}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Hand_R
+      parentName: Meebi_Forearm_R
+      position: {x: 0.006349921, y: 0.00017657786, z: -1.0853174}
+      rotation: {x: -0.077228844, y: -0.19579755, z: -0.000483725, w: 0.97759855}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Thumb_R
+      parentName: Meebi_Hand_R
+      position: {x: -0.09200752, y: 0.00000006461857, z: -0.13536455}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Hips
+      parentName: Meebi_BodyPivot
+      position: {x: -0.000000029802322, y: -0.00000003892933, z: 0.000000009435577}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Thigh_L
+      parentName: Meebi_Hips
+      position: {x: -0.33360773, y: 0.021915711, z: -1.0663226}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Shin_L
+      parentName: Meebi_Thigh_L
+      position: {x: -0.053620636, y: -0.0013222329, z: -1.3418828}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Foot_L
+      parentName: Meebi_Shin_L
+      position: {x: -0.0015740991, y: 6.6067e-10, z: -0.8838001}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Thigh_R
+      parentName: Meebi_Hips
+      position: {x: 0.3334236, y: 0.021915711, z: -1.0663226}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Shin_R
+      parentName: Meebi_Thigh_R
+      position: {x: 0.053804815, y: -0.0013222329, z: -1.3418828}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Meebi_Foot_R
+      parentName: Meebi_Shin_R
+      position: {x: 0.0015740991, y: 6.6067e-10, z: -0.8838001}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
